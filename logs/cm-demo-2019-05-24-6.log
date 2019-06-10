@@ -1,0 +1,2 @@
+2019-06-10 17:21:19.859  INFO Nabeel-PC --- [           main] c.b.b.u.AmazonS3Util                     : Downloading an object
+2019-06-10 17:21:21.752  INFO Nabeel-PC --- [           main] c.b.b.u.AmazonS3Util                     : Content-Type: image/jpeg
